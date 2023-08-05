@@ -11,7 +11,8 @@ The main objective of this project is to build and compare three different model
 The dataset used for this project consists of labeled text messages, where each message is tagged as either "spam" or "ham." The dataset is split into a training set and a test set for model evaluation.
 
 
-Before training the models, preprocess the text data using lemmatization, stemming, and vectorization techniques. This step can be performed by running the preprocessing scripts found in the `preprocessing/` directory.
-
-
 This project demonstrates the application of LSTM, Bi-LSTM, and a custom neural network for NLP-based spam or ham message classification. By comparing the results, we can identify the most effective model for this specific task.
+
+Author : Mukund Khandelwal
+
+Date : 18th July 2023
